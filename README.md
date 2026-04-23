@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc98f6aa-2813-447f-af3f-6aeade86085a" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eaec2c55-c2a4-4f44-ba91-76ce4882535b" /># MemeFans
+# MemeFans
 the worst meme page ever on the internet idk why i made it but yeah it looks good enough hopefully will do more changes :P
 
 ## Optimization
